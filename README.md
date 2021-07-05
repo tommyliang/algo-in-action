@@ -1,2 +1,2 @@
 # algo-in-action
-some algorithm stuff,  mostly for practise
+some algorithm stuff,  mostly for practicing
